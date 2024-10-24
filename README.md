@@ -12,15 +12,11 @@ The data was scraped using the GitHub API and the `requests` library in Python. 
 
 ## Interesting Fact
 
-The most interesting and surprising fact found during the analysis is that **[Insert your interesting fact here]**.  For example, you could mention if you found a user with an unexpectedly high number of stars, a repository with a unique license, or a trend in the usage of specific programming languages.
+The most interesting and surprising fact found during the analysis is that  majority of these developers work at	'UNIVERSITY OF TORONTO'.JAVA SCRIPT is most popular language among these users.
 
 ## Actionable Recommendation
-
-Based on the analysis, a key actionable recommendation for developers is to **[Insert your recommendation here]**. For example, you could recommend:
-
 * **Focus on JavaScript:** Given the popularity of JavaScript, developers should consider learning and using JavaScript in their projects.
 * **Contribute to Open Source:** Contributing to open-source projects can increase visibility, collaboration opportunities, and skill development.
-* **[Add other relevant recommendations based on your analysis]**
 
 ## Data Files
 
