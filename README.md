@@ -4,8 +4,10 @@
 
 * This project scrapes data from the GitHub API to analyze public repositories of all users in the city of 'Toronto' with over 100 followers.
 * THe data is stored in 'users.csv' and 'repositories.csv'.
-* The analysis revealed that JavaScript is the most popular programming language among the users analyzed.  
-* So Developers should focus on using JavaScript and contributing to open-source projects to enhance their visibility and collaboration opportunities. 
+* I learned a new concept of creating GitHubToken and giving authorization to it.
+* Diiferent types of queires used in the program.
+* I learned to use THreadPoolExecutor to handle multiple threads at a time.
+
 
 ## Data Scraping
 
@@ -13,13 +15,15 @@ The data was scraped using the GitHub API and the `requests` library in Python. 
 
 ## Interesting Fact
 
-The most interesting and surprising fact found during the analysis is that earliest repository is created at 2008. I didnt went to my plaschool at that time. And the majority of these developers work at	'UNIVERSITY OF TORONTO'.JAVA SCRIPT is most popular language among these users.
+The most interesting and surprising fact found during the analysis is that earliest repository is created at 2008. I didnt went to my playschool at that time. And the majority of these developers work at	'UNIVERSITY OF TORONTO'.JAVA SCRIPT is most popular language among these users.
 
 ## Actionable Recommendation
 * **Focus on JavaScript:** Given the popularity of JavaScript, developers should consider learning and using JavaScript in their projects.
 * **Contribute to Open Source:** Contributing to open-source projects can increase visibility, collaboration opportunities, and skill development.
 
 ## Data Files
+users.csv : https://drive.google.com/file/d/1hQeJ5INpuUrRcHjiAoypv4Uuu-GE639o/view?usp=drive_link  
+repositories.csv : https://drive.google.com/file/d/1-WUcdfDnLHA8pdMenOuZcSCW1nKlaIyg/view?usp=drive_link
+Collect_data.ipynp : https://colab.research.google.com/drive/15r8O8-cbcok7i_FSXecqGBnooLgvJ02u?usp=drive_link
 
-* `\content\drive\My Drive\users.csv`: Contains the list of GitHub users whose repositories were analyzed.
-* `\content\drive\My Drive\repositories.csv`: Contains the scraped data about the repositories.
+
